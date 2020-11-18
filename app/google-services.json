@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "399958431755",
+    "firebase_url": "https://fir-auth-da606.firebaseio.com",
+    "project_id": "fir-auth-da606",
+    "storage_bucket": "fir-auth-da606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399958431755:android:a9c3fb4d9439b87c4acf0e",
+        "android_client_info": {
+          "package_name": "papaya.in.facebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399958431755-3ikiu6v0pdignre1cel8v6kbbhsdssfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "papaya.in.facebookauth",
+            "certificate_hash": "3a08c55e6c38427d0b8ccb96e3e8fe085a6063f9"
+          }
+        },
+        {
+          "client_id": "399958431755-hbrfjelog6bq9nkcrhmhheco6e4in7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbcaeXPKZPXi1gQ5WrVBulyoId7MpD50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399958431755-hbrfjelog6bq9nkcrhmhheco6e4in7ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399958431755:android:0afd19317f49878e4acf0e",
+        "android_client_info": {
+          "package_name": "papaya.in.fbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399958431755-uvfeuhgooe0ra5ch50v3s2dke33no13a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "papaya.in.fbauth",
+            "certificate_hash": "3a08c55e6c38427d0b8ccb96e3e8fe085a6063f9"
+          }
+        },
+        {
+          "client_id": "399958431755-hbrfjelog6bq9nkcrhmhheco6e4in7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbcaeXPKZPXi1gQ5WrVBulyoId7MpD50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399958431755-hbrfjelog6bq9nkcrhmhheco6e4in7ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399958431755:android:4f1b2b9fa34797824acf0e",
+        "android_client_info": {
+          "package_name": "papaya.in.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399958431755-8jlhnjk3890ijqd52t3jgr35r4q6dsqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "papaya.in.firebaseauthentication",
+            "certificate_hash": "f357e279464b873afaf55348f769573fbbd598c9"
+          }
+        },
+        {
+          "client_id": "399958431755-hbrfjelog6bq9nkcrhmhheco6e4in7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbcaeXPKZPXi1gQ5WrVBulyoId7MpD50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399958431755-hbrfjelog6bq9nkcrhmhheco6e4in7ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
